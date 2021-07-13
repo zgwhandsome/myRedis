@@ -10,7 +10,7 @@ public class MyRedis {
         System.out.println(jedis.get("name"));
         System.out.println(jedis.flushDB());*/
         System.out.println("zhangguow ");
-        System.out.println("ddddddddd");
-        String string = new String("zhang");
+
+
     }
 }
